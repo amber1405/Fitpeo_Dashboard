@@ -8,7 +8,7 @@ import upGreen from "../assets/SVG/arrow-up-solid-green.svg";
 import upRed from "../assets/SVG/arrow-down-solid-red.svg";
 import PieChart from './PieChart';
 import ProductSellTable from './ProductSellTable';
-import BarGraph from './Bargraph';
+import BarGraph from './BarGraph';
 const Hero = () => {
     return (
         <section className="p-5 md:px-10 lg:w-[70%] xl:w-[82%] lg:h-[100vh] overflow-scroll">
